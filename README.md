@@ -1,6 +1,6 @@
 # Mechanical Engineering Project Template
 
-A reusable starting point for projects in the Mechanical Engineering Department. Use this repository as a template to organize a project’s mechanical design, electronics, software, machine skills, simulation, documentation, experiments, and publications.
+A reusable starting point for projects in the Mechanical Engineering Department. Use this repository as a template to organize a project's mechanical design, electronics, software, machine skills, simulation, documentation, experiments, and publications.
 
 ## Getting started
 
@@ -12,11 +12,13 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 
 ## Project overview
 
-- **Project name:** [Enter project name]
-- **Problem / purpose:** [Describe the engineering need]
-- **Team:** [Names and responsibilities]
-- **Status:** Planning
-- **Last updated:** [YYYY-MM-DD]
+- Project name: ***Pick-and-Place Mechanism***
+- Team: ***Cheese Stick***  (1 member)
+- Status: ***Planning***
+- Member: *Kawin Lorchokwattana  6730021021*
+- Last updated: *19-10-2026*
+- Problem/Purpose:  
+>  In a factory, products on the production line need to be transported between conveyor belts or working stations. This mechanism will facilitate such cumbersome processes by the aid of machine and robotics instead of relying solely on manpower. It picks, lifts, places, and releases an object from one position to another which are at most 180 degrees apart, typically on the same elevation. The rotary motion of a uniform electric motor is converted to the oscillatory motion of the vacuum end-effector attached to the linkage. This can be achieved by implementating three types of linkages: a crank-rocker four-bar linkage, a six-bar linkage, and a parallel motion linkage.
 
 ## Repository structure
 
