@@ -1,6 +1,6 @@
-# Mechanical Engineering Project Template
+# Machinery Term Project 2026
 
-A reusable starting point for projects in the Mechanical Engineering Department. Use this repository as a template to organize a project's mechanical design, electronics, software, machine skills, simulation, documentation, experiments, and publications.
+<!-- A reusable starting point for projects in the Mechanical Engineering Department. Use this repository as a template to organize a project's mechanical design, electronics, software, machine skills, simulation, documentation, experiments, and publications.
 
 ## Getting started
 
@@ -8,17 +8,18 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 2. Rename the project in this README and update the project summary, team, and objectives.
 3. Review the folder READMEs and replace the examples with project-specific information.
 4. Create GitHub Issues for tasks and record important design decisions and test results.
-5. Check the license placeholder and select appropriate terms before sharing or reusing project work.
+5. Check the license placeholder and select appropriate terms before sharing or reusing project work. -->
 
 ## Project overview
 
 - Project name: ***Pick-and-Place Mechanism***
 - Team: ***Cheese Stick***  (1 member)
-- Status: ***Planning***
+- Status: ***Completed***
 - Member: *Kawin Lorchokwattana  6730021021*
-- Last updated: *19-10-2026*
+- Last updated: *12-11-2026*
 - Problem/Purpose:  
->  In a factory, products on the production line need to be transported between conveyor belts or working stations. This mechanism will facilitate such cumbersome processes by the aid of machine and robotics instead of relying solely on manpower. It picks, lifts, places, and releases an object from one position to another which are at most 180 degrees apart, typically on the same elevation. The rotary motion of a uniform electric motor is converted to the oscillatory motion of the vacuum end-effector attached to the linkage. This can be achieved by implementating three types of linkages: a crank-rocker four-bar linkage, a six-bar linkage, and a parallel motion linkage.
+
+>  In industrial plants, products on the production line need to be transported between conveyor belts or working stations. This mechanism will facilitate such cumbersome processes by the aid of machine and robotics instead of relying solely on manpower. It picks, lifts, places, and releases an object from one position to another which are at most 180° apart, typically on the same elevation. The uniform rotary motion of an electric motor is converted to the oscillatory motion of the vacuum end-effector attached to the linkage. This can be achieved by implementing two types of linkages: a crank-rocker four-bar linkage and a parallel motion linkage.
 
 ## Repository structure
 
@@ -36,10 +37,10 @@ A reusable starting point for projects in the Mechanical Engineering Department.
 | `experiments/` | Procedures, raw data, and results |
 | `publications/` | Project-related journal and conference papers |
 
-## Collaboration and file practices
+<!-- ## Collaboration and file practices
 
 Use descriptive filenames and commit messages. Record units, revisions, software versions, and assumptions. Keep editable source files where practical. Avoid committing credentials, private data, temporary files, or duplicate exports. Consider Git LFS for large CAD, simulation, and video files.
 
 ## Safety and validation
 
-Document hazards, safeguards, and operating limits before testing hardware. Validate important calculations and simulation results against measurements where practical.
+Document hazards, safeguards, and operating limits before testing hardware. Validate important calculations and simulation results against measurements where practical. -->
